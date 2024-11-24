@@ -1,0 +1,83 @@
+.aboutContainer {
+  width: 100%;
+  height: 100vh;
+  background-color: var(--white);
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+}
+.aboutImg {
+  width: 30rem;
+  height: 30rem;
+  border-radius: 15rem;
+}
+.aboutUs {
+    font-size: 1rem;
+  font-weight: 700;
+  color: var(--darkblue);
+}
+.who {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: var(--gray);
+  font-family: "Dancing Script", serif;
+}
+.we {
+  color: var(--darkblue);
+}
+.about {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  
+}
+.aboutp {
+  /* text-align: center; */
+  width: 30rem;
+}
+.mission
+{
+    color: var(--darkblue);
+    font-size: 1.2rem;
+    font-weight: 700;
+    font-family: "Dancing Script", serif;
+}
+.missionpara
+{
+    width: 10rem;
+}
+.missionvision
+{
+    display: flex;
+}
+
+
+
+
+@media (max-width: 768px) {
+  .aboutContainer {
+    height: 140vh;
+    flex-direction: column;
+    gap: 2rem;
+  }
+  .aboutImg {
+    width: 16rem;
+    height: 16rem;
+  }
+  .about p {
+    text-align: center;
+    width: 17rem;
+  }
+  .about{
+    align-items: center;
+  }
+  .who{
+    text-align: center;
+  }
+  .missionvision{
+    display:none;
+  }
+  
+}
