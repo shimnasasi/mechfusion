@@ -37,6 +37,7 @@
   display: flex;
   gap: 5rem;
   justify-content: center;
+  align-items: center;
 }
 .iconss {
   display: flex;
@@ -65,6 +66,6 @@
   }
   .whychooseContainer
   {
-    height: 180vh;
+    height: 190vh;
   }
 }

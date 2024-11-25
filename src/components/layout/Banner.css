@@ -64,13 +64,14 @@
 @media(max-width:768px)
 {
   .bannerShadow p{
-    /* text-align: center; */
+    text-align: center;
     width: 17rem;
   
   }
   .bannerShadowheading 
   {
-      font-size: 2rem;
+      font-size: 1.8rem;
+      text-align: center;
   }
   
 }
