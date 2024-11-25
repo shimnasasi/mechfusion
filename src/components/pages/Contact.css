@@ -142,8 +142,7 @@
   height: 2rem;
   width: 43.5%;
   color: white;
-
-  background-color: transparent;
+background-color: transparent;
   font-family: inherit;
   border: 1px solid var(--darkblue);
   outline: none;
