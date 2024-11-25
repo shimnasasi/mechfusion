@@ -11,10 +11,14 @@ const Service = () => {
     <div>
       <Layout>
         <div className="service-container">
-          <div className="service-banner">
-            <div className="service-heading">Service</div>
+        <div className="career-banner">
+            <div className="career">Service</div>
             <p>"Turning Ideas into Reality with Precision, Innovation, and Unmatched Excellence."</p>
           </div>
+          {/* <div className="service-banner">
+            <div className="service-heading">Service</div>
+            <p>"Turning Ideas into Reality with Precision, Innovation, and Unmatched Excellence."</p>
+          </div> */}
 
           <div className="service-list">
             <div className="service-box">
