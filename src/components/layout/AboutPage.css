@@ -3,7 +3,7 @@
   min-height: 100vh;
   background-color: var(--white);
   display: flex;
-
+  padding: 2rem 0;
   justify-content: center;
   align-items: center;
   gap: 5rem;
@@ -14,7 +14,7 @@
   border-radius: 15rem;
 }
 .aboutUs {
-    font-size: 1rem;
+  font-size: 1rem;
   font-weight: 700;
   color: var(--darkblue);
 }
@@ -31,34 +31,27 @@
   display: flex;
   flex-direction: column;
   /* justify-content: center; */
-  
 }
 .aboutp {
   /* text-align: center; */
   width: 30rem;
 }
-.mission
-{
-    color: var(--darkblue);
-    font-size: 1.2rem;
-    font-weight: 700;
-    font-family: "Dancing Script", serif;
+.mission {
+  color: var(--darkblue);
+  font-size: 1.2rem;
+  font-weight: 700;
+  font-family: "Dancing Script", serif;
 }
-.missionpara
-{
-    width: 10rem;
+.missionpara {
+  width: 10rem;
 }
-.missionvision
-{
-    display: flex;
+.missionvision {
+  display: flex;
 }
-
-
-
 
 @media (max-width: 768px) {
   .aboutContainer {
-    min-height: 150vh;
+    /* min-height: 150vh; */
     flex-direction: column;
     gap: 2rem;
   }
@@ -68,16 +61,15 @@
   }
   .about p {
     text-align: center;
-    width: 17rem;
+    width: 98%;
   }
-  .about{
+  .about {
     align-items: center;
   }
-  .who{
+  .who {
     text-align: center;
   }
-  .missionvision{
-    display:none;
+  .missionvision {
+    display: none;
   }
-  
 }
