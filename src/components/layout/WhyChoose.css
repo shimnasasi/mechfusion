@@ -57,7 +57,7 @@
     text-align: center;
   }
   .whychooseImg {
-    width: 95%;
+    width: 85%;
     height: 17rem;
   }
   .whychoosemech {
@@ -68,8 +68,5 @@
     flex-direction: column;
     gap: 1rem;
   }
-  .whychooseContainer
-  {
-    /* min-height: 190vh; */
-  }
+  
 }
