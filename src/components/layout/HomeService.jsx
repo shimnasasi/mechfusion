@@ -30,7 +30,7 @@ const HomeService = () => {
         </div>
         <div className="serviceBox">
           <img className="design" src={documentation} alt="" />
-          <div className="mechanicalDes">Documentation</div>
+          <div className="mechanicalDes">Engineering Documentation</div>
         </div>
         <div className="serviceBox">
           <img className="design" src={others} alt="" />

@@ -74,7 +74,7 @@ const Service = () => {
 
             <div className="service-box">
               <div>
-                <div className="mechanical-design"> Documentation</div>
+                <div className="mechanical-design">Engineering Documentation</div>
                 {/* <div className="servicelist-box"> */}
                 <ul className="service-ul">
                   <li>Work Instruction (WI)</li>
@@ -96,7 +96,7 @@ const Service = () => {
             <div className="service-box">
               <img className="design-image" src={others} alt="" />
               <div>
-                <div className="mechanical-design">Others</div>
+                <div className="mechanical-design">Other Services</div>
                 {/* <div className="servicelist-box"> */}
                 <ul className="service-ul">
                   <li>Mould Flow Analysis</li>
