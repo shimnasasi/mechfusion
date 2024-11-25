@@ -1,6 +1,6 @@
 .service-banner {
   width: 100%;
-  height: 50vh;
+  min-height: 50vh;
   background-image: url("https://static.vecteezy.com/system/resources/thumbnails/011/545/805/small_2x/abstract-luxury-glowing-lines-curved-overlapping-on-dark-blue-background-template-premium-award-design-free-vector.jpg");
   background-position: center;
   background-size: cover;
@@ -108,7 +108,7 @@ border: none;
   }
   .service-list
   {
-    height: 302vh;
+    min-height: 302vh;
     gap: .5rem;
     /* justify-content: center; */
     /* align-items: center; */
