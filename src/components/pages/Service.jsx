@@ -21,6 +21,8 @@ const Service = () => {
               <div>
                 <div className="mechanical-design">Mechanical Design</div>
                 <div className="servicelist-box">
+
+                 
                   <ul className="service-ul">
                     
                     <li>Jigs and Fixtures</li>

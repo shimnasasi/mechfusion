@@ -1,6 +1,6 @@
 .missionAndvision-Container {
   width: 100%;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
   gap: 2rem;
@@ -46,20 +46,20 @@
   }
   .mission-container
   {
-      width: 17rem;
+      width: 98%;
       height: 28rem;
       /* margin-left: 0 */
   }
   .mission-content p {
-    width: 16.8rem;
+    width: 96%;
     text-align: center;
   }
   .mission-ul {
-    width: 15rem;
+    width: 87%;
   }
   .missionAndvision-Container
   {
-    min-height:140vh;
+    /* min-height:140vh; */
   }
  .ourMissionn
  {
