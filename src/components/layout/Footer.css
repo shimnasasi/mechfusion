@@ -1,7 +1,9 @@
 .footer_container {
   width: 100%;
   min-height: 50vh;
-  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/011/545/805/small_2x/abstract-luxury-glowing-lines-curved-overlapping-on-dark-blue-background-template-premium-award-design-free-vector.jpg");
+  background-color: var(--darkblue);
+
+  /* background-image: url("https://static.vecteezy.com/system/resources/thumbnails/011/545/805/small_2x/abstract-luxury-glowing-lines-curved-overlapping-on-dark-blue-background-template-premium-award-design-free-vector.jpg"); */
   background-size: cover;
   background-position: center;
   display: flex;

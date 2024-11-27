@@ -12,7 +12,8 @@
   /* align-items: center; */
   justify-content: center;
   padding-top: 10rem;
-  font-family: "Dancing Script", serif;
+  font-family: "Funnel Sans", sans-serif;
+  /* font-family: "Dancing Script", serif; */
 }
 .aboutBanner p
 {
